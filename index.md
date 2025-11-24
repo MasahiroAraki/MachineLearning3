@@ -9,6 +9,12 @@
   <img src="images/araki25b.jpg" width="200pt" style="border: 1px"/>
   </a>
 
+## marimo のテスト
+
+|章|リンク|
+|--|--|
+|2. 機械学習の基本的な手順|[![Open in molab](https://marimo.io/molab-shield.svg)](https://molab.marimo.io/github/MasahiroAraki/MachineLearning3/marimo/chap02.py)|
+
 ## 章構成
 
 <img src="images/overview.svg" style="border: 1px"/>
