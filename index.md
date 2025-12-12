@@ -13,7 +13,7 @@
 
 |章|リンク|
 |--|--|
-|2. 機械学習の基本的な手順|[![Open in molab](https://marimo.io/molab-shield.svg)](https://molab.marimo.io/github/MasahiroAraki/MachineLearning3/marimo/chap02.py)|
+|2. 機械学習の基本的な手順|[![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_NxypaRkCLTPYbCWmb4zyEJ)
 
 ## 章構成
 
