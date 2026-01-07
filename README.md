@@ -18,3 +18,4 @@
 | [marimo の入門記事 (2)](https://note.com/mas_araki/n/n77f80aa1e672)|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_jnkpn4idTVtdSfDadTfWbQ)|
 | [marimo の入門記事 (3)](https://note.com/mas_araki/n/n5917741fd6a9)|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_WzbQRtAfdbsGsee7PL1V9H)|
 |2章を元にしたコード|ノートブック [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_NxypaRkCLTPYbCWmb4zyEJ)|
+| [marimo の入門記事 (4)](https://note.com/mas_araki/n/n97ed99b6b86d)|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_WHRDp1WUGhUQhAMhMjo4H3)|
