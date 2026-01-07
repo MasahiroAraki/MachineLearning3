@@ -12,10 +12,10 @@
 
 【注意】 本書に marimo に関する記述はありません。以下は、補足資料です。
 
-| Links |molab|
-|--| --|
-| [marimo の入門記事 (1)](https://note.com/mas_araki/n/n4fbcc8a74b08)|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_KobKrteFByCfTYc1ikfzyj)|
-| [marimo の入門記事 (2)](https://note.com/mas_araki/n/n77f80aa1e672)|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_jnkpn4idTVtdSfDadTfWbQ)|
-| [marimo の入門記事 (3)](https://note.com/mas_araki/n/n5917741fd6a9)|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_WzbQRtAfdbsGsee7PL1V9H)|
-|2章を元にしたコード|ノートブック [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_NxypaRkCLTPYbCWmb4zyEJ)|
-| [marimo の入門記事 (4)](https://note.com/mas_araki/n/n97ed99b6b86d)|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_WHRDp1WUGhUQhAMhMjo4H3)|
+| Links |内容|molab|
+|--| --|--|
+| [marimo の入門記事 (1)](https://note.com/mas_araki/n/n4fbcc8a74b08)|marimo とは|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_KobKrteFByCfTYc1ikfzyj)|
+| [marimo の入門記事 (2)](https://note.com/mas_araki/n/n77f80aa1e672)|marimo の概要|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_jnkpn4idTVtdSfDadTfWbQ)|
+| [marimo の入門記事 (3)](https://note.com/mas_araki/n/n5917741fd6a9)|機械学習の基本手順と marimo の基本要素|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_WzbQRtAfdbsGsee7PL1V9H)|
+|2章を元にしたコード||ノートブック [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_NxypaRkCLTPYbCWmb4zyEJ)|
+| [marimo の入門記事 (4)](https://note.com/mas_araki/n/n97ed99b6b86d)|決定木の学習|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_WHRDp1WUGhUQhAMhMjo4H3)|
